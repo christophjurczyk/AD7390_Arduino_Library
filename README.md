@@ -1,4 +1,4 @@
-# AD7390_Arduino_Library
+# AD7390 Arduino Library
 A simple Arduino Library for the Analog Devices AD7390 digital-to-analog converter (DAC).
 
 ## Usage
