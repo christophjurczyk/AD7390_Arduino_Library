@@ -1,4 +1,6 @@
 # AD7390 Arduino Library
+[![Compile Examples](https://github.com/christophjurczyk/AD7390_Arduino_Library/workflows/Compile%20Examples/badge.svg)](https://github.com/christophjurczyk/AD7390_Arduino_Library/actions?workflow=Compile+Examples)
+
 A simple Arduino Library for the Analog Devices AD7390 digital-to-analog converter (DAC).
 
 ## Usage
